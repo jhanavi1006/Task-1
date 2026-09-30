@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Please enter your name");
+﻿Console.WriteLine("Please write your name");
 string name = Console.ReadLine();
 
 Console.WriteLine("Please enter your age");
